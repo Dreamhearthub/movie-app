@@ -93,12 +93,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Jeff Jiang - [@jeffjiang9](https://twitter.com/jeffjiang9) - jeff.jiang13@gmail.com
-
-Project Link: [https://github.com/jeffjiang13/movie-app](https://github.com/jeffjiang13/movie-app)
-
 ## Acknowledgements
 
 - [Choose an Open Source License](https://choosealicense.com)
