@@ -5,7 +5,7 @@ Improving your README can significantly enhance how others perceive and interact
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/movie-app">
+  <a href="https://github.com/Dreamhearthub/movie-app">
     <img src="src/assets/images/dark2.png" alt="Filmpire Logo" width="252" height="155">
   </a>
 
@@ -17,9 +17,9 @@ Improving your README can significantly enhance how others perceive and interact
     <a href="https://jj-movie-app.vercel.app"><strong>Explore the Demo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeffjiang13/movie-app/issues">Report Bug</a>
+    <a href="https://github.com/Dreamhearthub/movie-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jeffjiang13/movie-app/issues">Request Feature</a>
+    <a href="https://github.com/Dreamhearthub/movie-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jeffjiang13/movie-app.git
+   git clone https://github.com/Dreamhearthub/movie-app.git
    ```
 2. Install NPM packages
    ```sh
